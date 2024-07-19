@@ -1,0 +1,2 @@
+# SNRLanguagePack
+SuperNewRolesコラボで追加された4役職の役職名をSNRに準拠させるアドオンです。
